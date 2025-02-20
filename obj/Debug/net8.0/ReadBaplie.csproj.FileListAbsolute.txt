@@ -11,6 +11,7 @@ C:\Users\mbermudez\OneDrive - JAPDEVA\Escritorio\ProjectBaplie\ReadBaplie\obj\De
 C:\Users\mbermudez\OneDrive - JAPDEVA\Escritorio\ProjectBaplie\ReadBaplie\obj\Debug\net8.0\ReadBaplie.AssemblyInfoInputs.cache
 C:\Users\mbermudez\OneDrive - JAPDEVA\Escritorio\ProjectBaplie\ReadBaplie\obj\Debug\net8.0\ReadBaplie.AssemblyInfo.cs
 C:\Users\mbermudez\OneDrive - JAPDEVA\Escritorio\ProjectBaplie\ReadBaplie\obj\Debug\net8.0\ReadBaplie.csproj.CoreCompileInputs.cache
+C:\Users\mbermudez\OneDrive - JAPDEVA\Escritorio\ProjectBaplie\ReadBaplie\obj\Debug\net8.0\ReadBaplie.sourcelink.json
 C:\Users\mbermudez\OneDrive - JAPDEVA\Escritorio\ProjectBaplie\ReadBaplie\obj\Debug\net8.0\ReadBaplie.csproj.Up2Date
 C:\Users\mbermudez\OneDrive - JAPDEVA\Escritorio\ProjectBaplie\ReadBaplie\obj\Debug\net8.0\ReadBaplie.dll
 C:\Users\mbermudez\OneDrive - JAPDEVA\Escritorio\ProjectBaplie\ReadBaplie\obj\Debug\net8.0\refint\ReadBaplie.dll

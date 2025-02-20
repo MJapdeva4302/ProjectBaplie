@@ -28,7 +28,7 @@ string rutaArchivo = @"C:\Users\mbermudez\OneDrive - JAPDEVA\Escritorio\ProjectB
 
             // Convertir el objeto a JSON
             string jsonResultado = JsonConvert.SerializeObject(interchange, Newtonsoft.Json.Formatting.Indented);
-
+            Console.WriteLine(jsonResultado);
             // **Guardar el JSON en la misma carpeta del proyecto**
             File.WriteAllText(rutaJson, jsonResultado);
 
