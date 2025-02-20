@@ -1,0 +1,37 @@
+{
+  "Header": {
+    "SyntaxIdentifier": null,
+    "SyntaxVersion": 0,
+    "SenderId": null,
+    "PartnerIDCodeQualifier": null,
+    "ReverseRoutingAddress": null,
+    "RecipientId": null,
+    "ParterIDCode": null,
+    "RoutingAddress": null,
+    "DateOfPreparation": "0001-01-01T00:00:00",
+    "ControlRef": null,
+    "AckRequest": 0,
+    "MessageRef": null,
+    "MessageType": null,
+    "Version": null,
+    "ReleaseNumber": null,
+    "ControllingAgency": null,
+    "AssociationAssignedCode": null,
+    "CommonAccessRef": null
+  },
+  "BGM": {
+    "MessageName": null,
+    "DocumentNumber": null,
+    "MessageFunction": null,
+    "ResponseType": null
+  },
+  "DTM": null,
+  "CUX": null,
+  "NAD": null,
+  "LOC": null,
+  "Trailer": {
+    "TrailerMessageSegmentsCount": 0,
+    "TrailerMessageReference": null
+  },
+  "Footer": null
+}
